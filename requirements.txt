@@ -5,4 +5,4 @@ use <pip install Flask> to install
 use <pip install beautifulsoup4> to install
 # PyJWT  2.3.0 
 use <pip install pyjwt> to install
-# if you have got psycopg2 error, try to use <pip install psycopg2-binary command
+# if you have got psycopg2 error, try to use <pip install psycopg2-binary> command
